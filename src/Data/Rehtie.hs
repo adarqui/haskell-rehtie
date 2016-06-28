@@ -2,13 +2,12 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 
 module Data.Rehtie (
-  rehtie,
-  module A
+  rehtie
 ) where
 
 
 
-import           Data.Either as A
+import           Data.Either (Either, either)
 
 
 

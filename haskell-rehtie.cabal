@@ -1,9 +1,10 @@
+cabal-version:       2.2
 name:                haskell-rehtie
 version:             0.1.0.0
 synopsis:            Values with two possibilities
 description:         Please see README.md
 homepage:            https://github.com/adarqui/haskell-rehtie#readme
-license:             BSD3
+license:             BSD-3-Clause
 license-file:        LICENSE
 author:              Andrew Darqui
 maintainer:          andrew.darqui@gmail.com
@@ -11,7 +12,6 @@ copyright:           2016 Andrew Darqui
 category:            Development
 build-type:          Simple
 -- extra-source-files:
-cabal-version:       >= 2.2
 
 library
   hs-source-dirs:      src
